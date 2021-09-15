@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj</h1>
-<h3 align="center">A passionate Kubernetes and Devsecops professional from India</h3>
+<h3 align="center">A passionate Kubernetes and DevSecOps professional from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awsompankaj" alt="awsompankaj" /></a> </p>
 
